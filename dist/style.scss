@@ -1,0 +1,30 @@
+body {
+  background-image: url("../images/background.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  font-family: 'Coming Soon', cursive !important;
+}
+
+h1 {
+  font-size: 30px !important;
+  background-color: white;
+}
+
+.clouds {
+  position: relative;
+  width: 408px;
+  margin: 0 auto;
+}
+
+.words {
+  position: absolute;
+  top: 90px;
+  left: 60px;
+}
+
+.total {
+  padding-top: 30px;
+  height: 200px;
+}
+
